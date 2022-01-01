@@ -1,0 +1,9 @@
+C:\Users\t4825\source\repos\win_wi\win_wi\bin\Debug\win_wi.exe.config
+C:\Users\t4825\source\repos\win_wi\win_wi\bin\Debug\win_wi.exe
+C:\Users\t4825\source\repos\win_wi\win_wi\bin\Debug\win_wi.pdb
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.csproj.AssemblyReference.cache
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.Properties.Resources.resources
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.csproj.GenerateResource.cache
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.csproj.CoreCompileInputs.cache
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.exe
+C:\Users\t4825\source\repos\win_wi\win_wi\obj\Debug\win_wi.pdb
